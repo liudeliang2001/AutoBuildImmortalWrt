@@ -53,9 +53,9 @@ PACKAGES="$PACKAGES luci-theme-argon"
 PACKAGES="$PACKAGES luci-app-argon-config"
 PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 #25.12
-PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
-PACKAGES="$PACKAGES openssh-sftp-server"
+#PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
+#PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
+#PACKAGES="$PACKAGES openssh-sftp-server"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
